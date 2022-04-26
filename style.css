@@ -28,16 +28,16 @@ figcaption, footer {
 ul, ol, p {
     color: #39393A;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 1.75rem;
     padding: 80px 0 20px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
     padding: 30px 0 20px;
 }
 
