@@ -1,3 +1,7 @@
+:root {
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +11,7 @@
 body {
     background: #EAEAEA;
     font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem; /* 16px */
     margin: 3vw 15vw 2vw;
 }
 
@@ -22,63 +27,63 @@ h1, h2 {
 
 figcaption, footer {
     color: #8F8F8F;
-    font-size: 12px;
+    font-size: 1.2rem;
 }
 
 ul, ol, p {
     color: #39393A;
     font-weight: 400;
-    font-size: 1rem;
+    font-size: 1.6rem;
 }
 
 h1 {
-    font-size: 1.75rem;
-    padding: 80px 0 20px;
+    font-size: 2.8rem;
+    padding: 8rem 0 2rem;
 }
 
 h2 {
-    font-size: 1.25rem;
-    padding: 30px 0 20px;
+    font-size: 2rem;
+    padding: 3rem 0 2rem;
 }
 
 ul, ol {
-    line-height: 26px;
+    line-height: 2.6rem;
     list-style-position: inside;
-    padding: 0 30px;
+    padding: 0 3rem;
 }
 
 figcaption {
     text-align: right;
-    padding: 10px 0;
+    padding: 1rem 0;
 }
 
 footer {
     text-align: center;
-    padding: 50px 0 0;
+    padding: 5rem 0 0;
 }
 
 img {
     width: 100%;
-    height: 250px;
-    border-radius: 10px;
+    /*height: 25rem;*/
+    border-radius: 1rem;
 }
 
 header {
-    border-radius: 10px 10px 0 0;
+    border-radius: 1rem 1rem 0 0;
 }
 
 main {
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 1rem 1rem;
 }
 
 p {
-    padding: 0 30px 20px;
+    padding: 0 3rem 2rem;
 }
 
 figure {
-    padding: 0 30px;
+    padding: 0 3rem;
 }
 
 li {
-    padding: 5px 0;
+    padding: 0.5rem 0;
 }
